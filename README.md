@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
 3. What is closure?
    A closure is the combination of a function.
 
-4. Describe the four rules of the 'this' keyword.
+4) Describe the four rules of the 'this' keyword.
 
 - New: If the `new` keyword is used when calling the funcion, `this` inside the function is a brand new object.
 - Explicit: If `apply`, `call`, or `bind` are used to call a function, `this` inside a function is the object that is passed as the argument.
